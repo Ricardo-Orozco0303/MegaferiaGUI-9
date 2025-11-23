@@ -69,11 +69,11 @@ src/core/
     *   Localiza la clase principal: `src/core/main/Main.java`.
     *   Ejecuta el método `main`.
 
-## 👥 Autores
+## 👥 Contribuidores
 
-*   **jjlora**
+*   **Ricardo Orozco** (Ricardo-Orozco0303)
+*   **David Gutiérrez** (Axy-sys)
+*   **Juan Jose** (THE-BLACK7)
 *   **edangulo**
-*   **Ricardo-Orozco0303** (Owner)
 
 ---
-*Generado para documentación del proyecto MegaferiaGUI.*
